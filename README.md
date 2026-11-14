@@ -4,7 +4,7 @@
 
 I'm an undergraduate researcher at AISL, focusing on Efficient AI, with research interests in Large Language Models (LLMs), and Autonomous Driving.
 
-## Current Research
+### Current Research
 
 ## Large Language Models (LLMs)
 - **Multi-Token Prediction (MTP):** Investigating layer-wise representations of future-token information to improve prediction performance.
@@ -25,8 +25,11 @@ I'm an undergraduate researcher at AISL, focusing on Efficient AI, with research
 - Model Compression
 - Vision-Language-Action Models
 
-## Claude Skills
+## Development
 
-- Custom Skill Development: Developing reusable skills to extend Claude's capabilities and automate specialized workflows.
-- AI Workflow Automation: Exploring structured workflows that improve productivity and simplify repetitive tasks.
-- AI-Powered Tools: Building practical tools and integrations using large language models.
+### AI Skills
+
+- **AI Skills Development:** Building reusable skills that extend the capabilities of AI.
+- **Workflow Automation:** Developing AI-powered solutions to simplify everyday tasks and improve productivity.
+- **Model Context Protocol (MCP):** Integrating AI assistants with external tools, services, and data sources.
+

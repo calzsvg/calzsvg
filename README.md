@@ -1,4 +1,4 @@
-# About Me
+# Hoyoung Yoon
 
 **Undergraduate AI Researcher | Hanyang University ERICA**
 
@@ -20,7 +20,6 @@ I'm an undergraduate researcher at AISL, focusing on Efficient AI, with research
 
 - Large Language Models
 - Multi-Token Prediction
-- Multimodal Learning
 - Autonomous Driving
 - Efficient AI
 - Model Compression

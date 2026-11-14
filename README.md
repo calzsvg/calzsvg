@@ -1,35 +1,27 @@
-# 윤호영
+# About Me
 
-AI undergraduate student focusing on autonomous driving systems.
+**Undergraduate AI Researcher | Hanyang University ERICA**
+
+I'm an undergraduate researcher at AISL, focusing on Efficient AI, with research interests in Large Language Models (LLMs), and Autonomous Driving.
+
+## Current Research
+
+### Large Language Models (LLMs)
+- **Multi-Token Prediction (MTP):** Investigating layer-wise representations of future-token information to improve prediction performance.
+- **Layer-wise Fine-tuning:** Exploring selective fine-tuning strategies based on future-token information across Transformer layers.
+- **Model Adaptation:** Improving MTP performance and robustness during fine-tuning.
+
+### Autonomous Driving
+- **Camera Input Optimization:** Investigating camera input configurations and preprocessing strategies for autonomous driving systems.
+- **Vision-Language-Action (VLA) Models:** Exploring efficient architectures and optimization techniques for autonomous driving.
+- **Model Compression:** Investigating knowledge distillation and model compression for deployment on resource-constrained devices.
 
 ## Research Interests
+
+- Large Language Models
+- Multi-Token Prediction
+- Multimodal Learning
 - Autonomous Driving
-- Vision-Language Models (VLM)
-- Vision-Language-Action Models (VLA)
-- Model Lightweighting
-- Action Expert
-- Embedded AI
-
-## Current Work
-- Alpamayo-family model architecture analysis
-- Autonomous driving model training pipeline design
-- Model lightweighting and inference optimization
-- GMSL2 multi-camera system integration
-- NVIDIA Jetson AGX Thor / Orin deployment
-
-## Tech Stack
-
-### Language
-- Python
-
-### Tools & Platforms
-- PyTorch
-- Linux
-- Git / GitHub
-- NVIDIA Jetson
-- CUDA
-
-## Projects
-- Alpamayo-based Autonomous Driving Model
-- Autonomous Parking System
-- GMSL2 Multi-Camera Sensor Pipeline
+- Efficient AI
+- Model Compression
+- Vision-Language-Action Models
